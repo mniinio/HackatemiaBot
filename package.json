@@ -2,9 +2,9 @@
   "name": "botkit-middleware-watson-simple-example",
   "version": "0.0.1",
   "description": "Simple Slack bot example using botkit-middleware-watson with Botkit.",
-  "main": "server.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node bot.js"
   },
   "license": "Apache-2.0",
   "dependencies": {
