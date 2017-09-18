@@ -1,5 +1,5 @@
 #API keys and other environment variables
-.env
+#.env
 
 #Node
 node_modules
